@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I’m currently studying in Bathspa University
+
 <!--
 **achi811/achi811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
